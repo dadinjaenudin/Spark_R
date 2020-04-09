@@ -1,7 +1,3 @@
----
-title: 'Spark R'
-disqus: Dadin Jaenudin
----
 
 # Running Spark in R
 
